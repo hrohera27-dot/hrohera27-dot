@@ -4,6 +4,10 @@ Inventor and engineer, Pune, India. Sole named inventor on three granted patent 
 
 - Author hub and patent register: https://hemant-rohera.vercel.app/
 - ORCID: https://orcid.org/0009-0005-3275-1743
+- OpenAlex: https://openalex.org/A5151382424
+- Semantic Scholar: https://www.semanticscholar.org/author/2323263356
+- Google Scholar: https://scholar.google.com/citations?user=c3Vk6ZMAAAAJ
+- Wikidata: https://www.wikidata.org/wiki/Q141430390
 - All deposits on Zenodo: https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0005-3275-1743%22
 
 ### Hybrid Power Pack — open-access papers, code and data
