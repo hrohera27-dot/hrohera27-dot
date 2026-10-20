@@ -14,7 +14,7 @@ Inventor and engineer, Pune, India. Sole named inventor on three granted patent 
 
 ### At a glance
 
-3 granted US patents · 14 journal articles (1 indexed in PubMed) · 12 preprints · 8 technical notes · 4 datasets and code · 3 manuscripts under peer review
+3 granted US patents · 15 journal articles (1 indexed in PubMed) · 12 preprints · 8 technical notes · 4 datasets and code · 3 manuscripts under peer review
 
 ### Hybrid Power Pack — open-access papers, code and data
 

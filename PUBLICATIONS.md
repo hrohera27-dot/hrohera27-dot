@@ -6,8 +6,8 @@ Preprints and technical notes are not peer-reviewed. Concept DOIs always open th
 
 ## Granted US patents
 
-- **US 10,523,019 B2** — Hybrid Power Pack (2019-12-31) — [Google Patents](https://patents.google.com/patent/US10523019B2/en)
-- **US 11,117,476 B2** — OMNIA Drive (multi-source power conditioning for vehicles) (2021-09-14) — [Google Patents](https://patents.google.com/patent/US11117476B2/en)
+- **US 10,523,019 B2** — Hybrid power pack (2019-12-31) — [Google Patents](https://patents.google.com/patent/US10523019B2/en)
+- **US 11,117,476 B2** — Power generating system and method for a vehicle (OMNIA Drive) (2021-09-14) — [Google Patents](https://patents.google.com/patent/US11117476B2/en)
 - **US 12,226,183 B2** — Medical therapeutic device (eMedica) (2025-02-18) — [Google Patents](https://patents.google.com/patent/US12226183B2/en)
 
 All grants by jurisdiction: https://hemant-rohera.vercel.app/patent-register.html
@@ -69,6 +69,7 @@ Listed for completeness, as published; these venues have not passed, or not yet 
 - Rajashekar K, Patil H, Rohera H, Chouhan R, Nagpal D. *Use of Electron Therapy Device eMedica in the Management of Chronic Lymphocytic Leukemia: A case report.* **Frontiers in Health Informatics** 2024. [Article page](https://healthinformaticsjournal.com/index.php/IJMI/article/view/248) — No DOI.
 - Reddy BS, Khatri V, Begum GS, Rohera H, Chouhan R, Nagpal D. *Therapeutic Potential of eMedica's Electron-Driven Cell Therapy in Treating Cancer: Addressing Fundamental Aspects of Cellular Physiology.* **South Eastern European Journal of Public Health** 2024;pp. 2569–2573. doi:[10.70135/seejph.vi.2493](https://doi.org/10.70135/seejph.vi.2493)
 - Nagpal D, Rohera H. *Evaluating the Efficacy of E-medica: A Cross-Sectional Analysis of Its Role in Hypertension Management.* **African Journal of Biomedical Research** 2024;27(1s). [Article page](https://africanjournalofbiomedicalresearch.com/index.php/AJBR/article/view/1721) — The DOI printed by the journal (10.53555/ajbr.v27i1s.1721) did not resolve when checked on 20 October 2026. Venue discontinued in Scopus (estate check, 13 September 2026).
+- Hande PS, Rohera H, Begum GS, Nagpal D, Gowda S, Goud BKM. *Enhancing Patient Outcomes with eMedica Technology in the Fight Against COVID-19: A Health and Medicine Approach.* **African Journal of Biomedical Research** 2024;27(1S):2861–2878. doi:[10.53555/ajbr.v27i1s.1919](https://doi.org/10.53555/ajbr.v27i1s.1919) — Venue discontinued in Scopus (estate check, 13 September 2026).
 - Rohera H. *Emedica: A Noninvasive Device to Improve Insulin Sensitivity in Type 2 Diabetes Patients.* **Revista Electronica de Veterinaria** 2024;25(1):2469–2473. doi:[10.69980/redvet.v25i1.1256](https://doi.org/10.69980/redvet.v25i1.1256)
 - Rohera H. *eMedica: A Potentially Groundbreaking Device for the Optimization of Cellular Frequencies in Therapeutic Interventions — An Overview of Current Research.* **Journal of Population Therapeutics and Clinical Pharmacology** 2022;pp. 1913–1917. doi:[10.53555/6pxabh32](https://doi.org/10.53555/6pxabh32) — Venue discontinued in Scopus (estate check, 13 September 2026).
 - Rohera H. *Advancements in Disease Treatment through Optimizing Cellular Energy with eMedica Therapy.* **European Chemical Bulletin** 2022;11(9):1644–1651. doi:[10.53555/ecb.v11:i9.17740](https://doi.org/10.53555/ecb.v11:i9.17740)
