@@ -1,6 +1,6 @@
 # Publications — Hemant K. Rohera
 
-ORCID [0009-0005-3275-1743](https://orcid.org/0009-0005-3275-1743) · Updated 20 October 2026 · Full index with labels: https://hemant-rohera.vercel.app/research-index.html · BibTeX: [publications.bib](publications.bib)
+ORCID [0009-0005-3275-1743](https://orcid.org/0009-0005-3275-1743) · Updated 20 October 2026 · Full index with labels: https://hemantrohera.com/research-index.html · BibTeX: [publications.bib](publications.bib)
 
 Preprints and technical notes are not peer-reviewed. Concept DOIs always open the latest version.
 
@@ -10,7 +10,7 @@ Preprints and technical notes are not peer-reviewed. Concept DOIs always open th
 - **US 11,117,476 B2** — Power generating system and method for a vehicle (OMNIA Drive) (2021-09-14) — [Google Patents](https://patents.google.com/patent/US11117476B2/en)
 - **US 12,226,183 B2** — Medical therapeutic device (eMedica) (2025-02-18) — [Google Patents](https://patents.google.com/patent/US12226183B2/en)
 
-All grants by jurisdiction: https://hemant-rohera.vercel.app/patent-register.html
+All grants by jurisdiction: https://hemantrohera.com/patent-register.html
 
 ## Journal article indexed in PubMed
 
