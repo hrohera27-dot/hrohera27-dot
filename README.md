@@ -39,4 +39,14 @@ Inventor and engineer, Pune, India. Sole named inventor on three granted patent 
 
 Every number in these papers is derived from first principles or a cited source. The papers are preprints, not peer reviewed.
 
-Granted patents, by number and jurisdiction: https://hemantrohera.com/patent-register.html
+### Granted patents (status as of 12 November 2026)
+
+All three families are granted in the United States, Japan and the Eurasian Patent Office. Every grant is held by the inventor.
+
+| Family | Granted in |
+|---|---|
+| **eMedica** — medical therapeutic device (PCT/IB2020/055292, priority 10 Sep 2019) | 10 jurisdictions: United States (US 12,226,183 B2), Japan, South Korea, Australia, Canada, Eurasia (EA 044146), Saudi Arabia, South Africa, the Philippines and Malaysia. New Zealand accepted; Europe, India, Singapore and the UAE pending. |
+| **Hybrid Power Pack** (PCT/IB2015/056108, priority 10 Jul 2015) | India (IN 301517), United States (US 10,523,019 B2), Europe (EP 3 320 595 — DE, GB, CH), Japan, Canada, Eurasia (EA 035682), UAE, Viet Nam and Mexico |
+| **OMNIA Drive** (PCT/IB2016/055563, priority 25 Sep 2015) | United States (US 11,117,476 B2), Japan, India and Eurasia (EA 036594) |
+
+Full register with numbers and grant dates: https://hemantrohera.com/patent-register.html · Six-page synopsis (PDF): https://hemantrohera.com/hemant-k-rohera-synopsis.pdf
