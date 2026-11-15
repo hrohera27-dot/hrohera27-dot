@@ -9,7 +9,8 @@ Inventor and engineer, Pune, India. Sole named inventor on three granted patent 
 - Semantic Scholar: https://www.semanticscholar.org/author/2323263356
 - Google Scholar: https://scholar.google.com/citations?user=c3Vk6ZMAAAAJ
 - Wikidata: https://www.wikidata.org/wiki/Q141430390
-- Blog: https://hrohera27.blogspot.com/
+- Blog: https://hrohera27.blogspot.com/ · Substack: https://hemantrohera.substack.com/ · Medium: https://medium.com/@hrohera27
+- Profiles: [LinkedIn](https://www.linkedin.com/in/hemant-k-rohera-a8327323/) · [Crunchbase](https://www.crunchbase.com/person/hemant-rohera) · [about.me](https://about.me/hemantrohera)
 - All deposits on Zenodo: https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0005-3275-1743%22
 
 ### At a glance
@@ -48,5 +49,7 @@ Every grant is held by the inventor.
 | **eMedica** — medical therapeutic device | Patents granted in the United States, Japan, Korea, Australia, Canada, Saudi Arabia and South Africa, including US 12,226,183 B2 |
 | **Hybrid Power Pack** | US 10,523,019 B2, with grants in India, Europe (DE/GB/CH), Japan, Canada, Eurasia, UAE, Vietnam and Mexico |
 | **OMNIA Drive** | Granted in the US, India and Japan (US 11,117,476 B2 · IN 477613 · JP 7,109,623) |
+
+Patent drawings: [all 30 sheets](https://hemantrohera.com/hemant-rohera-patent-drawings.html) · explained: [Hybrid Power Pack](https://hemantrohera.com/hemant-rohera-hybrid-power-pack-patent-drawings.html) · [OMNIA Drive](https://hemantrohera.com/hemant-rohera-omnia-drive-patent-drawings.html) · [eMedica](https://hemantrohera.com/hemant-rohera-emedica-patent-drawings.html)
 
 Full register with numbers and grant dates: https://hemantrohera.com/patent-register.html · Six-page synopsis (PDF): https://hemantrohera.com/hemant-k-rohera-synopsis.pdf
