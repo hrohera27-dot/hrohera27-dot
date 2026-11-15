@@ -52,4 +52,6 @@ Every grant is held by the inventor.
 
 Patent drawings: [all 30 sheets](https://hemantrohera.com/hemant-rohera-patent-drawings.html) · explained: [Hybrid Power Pack](https://hemantrohera.com/hemant-rohera-hybrid-power-pack-patent-drawings.html) · [OMNIA Drive](https://hemantrohera.com/hemant-rohera-omnia-drive-patent-drawings.html) · [eMedica](https://hemantrohera.com/hemant-rohera-emedica-patent-drawings.html)
 
+Repository: [hemant-rohera-inventions](https://github.com/hrohera27-dot/hemant-rohera-inventions), an index of the three granted inventions with their drawing sheets.
+
 Full register with numbers and grant dates: https://hemantrohera.com/patent-register.html · Six-page synopsis (PDF): https://hemantrohera.com/hemant-k-rohera-synopsis.pdf
