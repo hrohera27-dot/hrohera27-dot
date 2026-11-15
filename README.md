@@ -2,7 +2,7 @@
 
 Inventor and engineer, Pune, India. Sole named inventor on three granted patent families — **eMedica** (bioelectronic medical device), the **Hybrid Power Pack** (battery–supercapacitor energy storage) and **OMNIA Drive** (vehicle power conditioning).
 
-- Author hub and patent register: https://hemantrohera.com/ · [Who is Hemant Rohera?](https://hemantrohera.com/who-is-hemant-karamchand-rohera.html) · [Photographs and official profiles](https://hemantrohera.com/hemant-rohera-photographs-and-profiles.html)
+- Author hub and patent register: https://hemantrohera.com/ · [Who is Hemant Rohera?](https://hemantrohera.com/who-is-hemant-karamchand-rohera.html) · [Photographs and official profiles](https://hemantrohera.com/hemant-rohera-photographs-and-profiles.html) · [Preprints, technical notes and datasets](https://hemantrohera.com/hemant-rohera-preprints-and-research-outputs.html)
 - **Complete publication list:** [PUBLICATIONS.md](PUBLICATIONS.md) · [BibTeX](publications.bib) · [labelled index on the hub](https://hemantrohera.com/research-index.html)
 - ORCID: https://orcid.org/0009-0005-3275-1743
 - OpenAlex: https://openalex.org/A5151382424
@@ -39,14 +39,14 @@ Inventor and engineer, Pune, India. Sole named inventor on three granted patent 
 
 Every number in these papers is derived from first principles or a cited source. The papers are preprints, not peer reviewed.
 
-### Granted patents (status as of 12 November 2026)
+### Granted patents
 
-All three families are granted in the United States, Japan and the Eurasian Patent Office. Every grant is held by the inventor.
+Every grant is held by the inventor.
 
 | Family | Granted in |
 |---|---|
-| **eMedica** — medical therapeutic device (PCT/IB2020/055292, priority 10 Sep 2019) | 10 jurisdictions: United States (US 12,226,183 B2), Japan, South Korea, Australia, Canada, Eurasia (EA 044146), Saudi Arabia, South Africa, the Philippines and Malaysia. New Zealand accepted; Europe, India, Singapore and the UAE pending. |
-| **Hybrid Power Pack** (PCT/IB2015/056108, priority 10 Jul 2015) | India (IN 301517), United States (US 10,523,019 B2), Europe (EP 3 320 595 — DE, GB, CH), Japan, Canada, Eurasia (EA 035682), UAE, Viet Nam and Mexico |
-| **OMNIA Drive** (PCT/IB2016/055563, priority 25 Sep 2015) | United States (US 11,117,476 B2), Japan, India and Eurasia (EA 036594) |
+| **eMedica** — medical therapeutic device | Patents granted in the United States, Japan, Korea, Australia, Canada, Saudi Arabia and South Africa, including US 12,226,183 B2 |
+| **Hybrid Power Pack** | US 10,523,019 B2, with grants in India, Europe (DE/GB/CH), Japan, Canada, Eurasia, UAE, Vietnam and Mexico |
+| **OMNIA Drive** | Granted in the US, India and Japan (US 11,117,476 B2 · IN 477613 · JP 7,109,623) |
 
 Full register with numbers and grant dates: https://hemantrohera.com/patent-register.html · Six-page synopsis (PDF): https://hemantrohera.com/hemant-k-rohera-synopsis.pdf
