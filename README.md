@@ -48,8 +48,8 @@ Every grant is held by the inventor.
 
 | Family | Granted in |
 |---|---|
-| **eMedica** — medical therapeutic device | Patents granted in the United States, Japan, Korea, Australia, Canada, Saudi Arabia and South Africa, including US 12,226,183 B2 |
-| **Hybrid Power Pack** | US 10,523,019 B2, with grants in India, Europe (DE/GB/CH), Japan, Canada, Eurasia, UAE, Vietnam and Mexico |
+| **eMedica** — medical therapeutic device | Patents granted in the United States, Japan, Korea, Australia, Canada, Saudi Arabia, South Africa, the Philippines and Malaysia, including US 12,226,183 B2 |
+ **Hybrid Power Pack** | US 10,523,019 B2, with grants in India, Europe (DE/GB/CH), Japan, Canada, Eurasia, UAE, Vietnam and Mexico |
 | **OMNIA Drive** | Granted in the US, India and Japan (US 11,117,476 B2 · IN 477613 · JP 7,109,623) |
 
 Patent drawings: [all 30 sheets](https://hemantrohera.com/hemant-rohera-patent-drawings.html) · explained: [Hybrid Power Pack](https://hemantrohera.com/hemant-rohera-hybrid-power-pack-patent-drawings.html) · [OMNIA Drive](https://hemantrohera.com/hemant-rohera-omnia-drive-patent-drawings.html) · [eMedica](https://hemantrohera.com/hemant-rohera-emedica-patent-drawings.html)
