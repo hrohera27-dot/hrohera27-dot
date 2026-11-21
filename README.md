@@ -3,6 +3,7 @@
 Inventor and engineer, Pune, India. Sole named inventor on three granted patent families — **eMedica** (bioelectronic medical device), the **Hybrid Power Pack** (battery–supercapacitor energy storage) and **OMNIA Drive** (vehicle power conditioning).
 
 - Ventures: Rohera Emerging Energies (Hybrid Power Pack) — https://nextgenpowerpack.com/ · Rohera Industries (OMNIA Drive) — https://www.roheraindustries.com/
+- YouTube: eMedica — https://www.youtube.com/@emedicaroherahealthcare · Next Gen Power Pack (Hybrid Power Pack & OMNIA Drive) — https://www.youtube.com/@NextGenPowerPack
 - Author hub and patent register: https://hemantrohera.com/ · [Who is Hemant Rohera?](https://hemantrohera.com/who-is-hemant-karamchand-rohera.html) · [Photographs and official profiles](https://hemantrohera.com/hemant-rohera-photographs-and-profiles.html) · [Preprints, technical notes and datasets](https://hemantrohera.com/hemant-rohera-preprints-and-research-outputs.html)
 - **Complete publication list:** [PUBLICATIONS.md](PUBLICATIONS.md) · [BibTeX](publications.bib) · [labelled index on the hub](https://hemantrohera.com/research-index.html)
 - ORCID: https://orcid.org/0009-0005-3275-1743
