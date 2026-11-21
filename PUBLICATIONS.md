@@ -24,7 +24,7 @@ All grants by jurisdiction: https://hemantrohera.com/patent-register.html
 
 ## Preprints and working papers (Zenodo)
 
-- *Downhole Energy Harvesting — A Hybrid, Net-Energy-Aware Architecture for Fluid-Flow, Piezoelectric and Acoustic Power Systems* (2026, preprint, v3.0) — doi:[10.5281/zenodo.24415615](https://doi.org/10.5281/zenodo.24415615)
+- *Downhole Energy Harvesting — A Hybrid, Net-Energy-Aware Architecture for Fluid-Flow, Piezoelectric and Acoustic Power Systems* (2026, preprint, v3.0) — doi:[10.5281/zenodo.24415615](https://doi.org/10.5281/zenodo.24415615) — Full summary: [hemantrohera.com/downhole-energy-harvesting](https://hemantrohera.com/downhole-energy-harvesting.html)
 - *Two Stores, One Power Pack: Battery–Supercapacitor Hybrid Storage and the Patented Hybrid Power Pack. A Consolidated Scientific Monograph on the Physics, Architecture, Control, Battery Management, Sizing, Safety, Standards and Evidence* (2026, monograph (preprint), v1.0) — doi:[10.5281/zenodo.23021957](https://doi.org/10.5281/zenodo.23021957) — Copy on figshare: 10.6084/m9.figshare.34025316
 - *Two Stores, One Power Pack: The Physics of Battery–Supercapacitor Hybridisation, the Patented Hybrid Power Pack Architecture, and the Applications Where It Delivers Most* (2026, preprint, v1.1) — doi:[10.5281/zenodo.22958076](https://doi.org/10.5281/zenodo.22958076) — Copy on figshare: 10.6084/m9.figshare.34004445
 - *The Hybrid Power Pack as a Platform: Balancing, Protection and Multi-Source Charging. A Claim-by-Claim Engineering Analysis of US 10,523,019 B2* (2026, preprint, v1.2) — doi:[10.5281/zenodo.22970638](https://doi.org/10.5281/zenodo.22970638) — Copy on figshare: 10.6084/m9.figshare.34004421. Under peer review at a journal
