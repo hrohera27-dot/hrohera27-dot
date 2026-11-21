@@ -30,6 +30,12 @@ Inventor and engineer, Pune, India. Sole named inventor on three granted patent 
 | Calculation scripts and working data — Two Stores (MIT) | — | [10.5281/zenodo.22991757](https://doi.org/10.5281/zenodo.22991757) |
 | Calculation scripts and working data — Platform (MIT) | — | [10.5281/zenodo.22991759](https://doi.org/10.5281/zenodo.22991759) |
 
+### Energy harvesting and power systems — open-access preprint
+
+| Work | DOI (all versions) |
+|---|---|
+| **Downhole Energy Harvesting** — a hybrid, net-energy-aware architecture for fluid-flow, piezoelectric and acoustic power systems | [10.5281/zenodo.24415615](https://doi.org/10.5281/zenodo.24415615) |
+
 ### Bioelectric science — open-access preprints
 
 | Work | DOI (all versions) |
